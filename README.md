@@ -34,7 +34,11 @@ Sobre mim:
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo722&theme=dark&_color=0D1117&title_color=13a95e&text_color=FFD700&hide_)](https://github.com/Pedroo722/github-readme-stats)
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo722&layout=compact&theme=dark&_color=0D1117&title_color=13a95e&text_color=FFD700&hide=)](https://github.com/Pedroo722/github-readme-stats)
+
+</div>
 
 ---
 
