@@ -6,12 +6,7 @@
 
 <div align="center">
 
-### Desenvolvedor
-
-</div>
-
-<div align="center">
-
+## Desenvolvedor
 ### Estudante de Análise e Desenvolvimento de Sistemas
 
 </div>
