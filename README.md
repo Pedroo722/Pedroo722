@@ -6,7 +6,6 @@
 
 <div align="center">
 
-### Desenvolvedor
 ### Estudante de Análise e Desenvolvimento de Sistemas
 
 </div>
@@ -20,12 +19,6 @@
   
 </div>
 
----
-
-Sobre mim:
-- 👋 Interessado em desenvolvimento Web Back-end
-- 🌱 Cursando Analise e Desenvolvimento de Sistemas no Instituto Federal da Paraíba
-- 💞️ Procurando oportunidades de carreira
 
 ---
 
