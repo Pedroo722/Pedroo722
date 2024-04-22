@@ -12,14 +12,6 @@
 
 ---
 
-**Sobre:**
-
-- Estudante de TI cursando Analise e Desenvolvimento de Sistemas
-- Interessado na área de desenvolvimento Web Back-end
-- Atualmente bolsista no Projeto de Extensão: IDEAÇÃO – Projeto de extensão em soluções tecnológicas na cidade de esperança e Região
-
----
-
 **Ferramentas**:
 
 <div align="center">
