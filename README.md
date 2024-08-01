@@ -12,32 +12,37 @@
 
 ---
 
+
+**Contatos**:
+
+<div align="center">
+  <a href="https://linkedin.com/in/pedro-henrique-alexandre-744894274/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:pedrohenriquealexandre7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
+
+
+---
+
 **Ferramentas**:
 
-<div align="center">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="Javascript" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="Typescript" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" title="Git" height="40">
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" title="VSCode" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" title="MySQL" width="40" height="40">
-  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" title="PostgreSQL" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM" title="NPM" width="40" height="40">
-</div>
 
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" />
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" />
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
+    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" title="TypeScript" />
+    <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" />
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" />
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgresSQL" title="PostgresSQL" />
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
+</p>
 
----  
-
-<div align="center">
-  
-![a](https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif)
-  
-</div>
 
 ---
 
@@ -48,12 +53,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <a href="https://linkedin.com/in/pedro-henrique-alexandre-744894274/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:pedrohenriquealexandre7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
