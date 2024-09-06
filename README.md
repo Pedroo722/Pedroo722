@@ -8,6 +8,8 @@
 
 ### Estudante de Análise e Desenvolvimento de Sistemas
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+de+Software)](https://git.io/typing-svg)
+
 </div>
 
 ---
