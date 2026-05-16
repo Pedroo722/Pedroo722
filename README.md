@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### Estudante de Análise e Desenvolvimento de Sistemas
+### Graduado em Análise e Desenvolvimento de Sistemas
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+de+Software)](https://git.io/typing-svg)
 
@@ -35,8 +35,8 @@
     <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript" />
     <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" title="TypeScript" />
     <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />
-    <!-- <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" /> -->
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" />
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" />
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java"
     <img src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring" />
     <img src="https://skillicons.dev/icons?i=postgres" alt="PostgresSQL" title="PostgresSQL" />
     <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" />
