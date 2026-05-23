@@ -19,8 +19,8 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-303030?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrohenriquealexandre7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-303030?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-alexandre-744894274/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-303030?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/83993365817)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-303030?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-alexandre/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-303030?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8393365817)
 
 </div>
 
@@ -49,8 +49,8 @@
 
 <div align="center">
 
-| <img src="https://github-readme-stats.vercel.app/api?username=Pedroo722&include_all_commits=true&count_private=true&show_icons=true&line_height=19&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Pedroo722's GitHub Stats" height="150"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo722&layout=compact&bg_color=0d1117&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" height="150">  |
-| ----------- | ----------- |
+<!-- | <img src="https://github-readme-stats.vercel.app/api?username=Pedroo722&include_all_commits=true&count_private=true&show_icons=true&line_height=19&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Pedroo722's GitHub Stats" height="150"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo722&layout=compact&bg_color=0d1117&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" height="150">  |
+| ----------- | ----------- | -->
 <img src="https://github-profile-trophy.vercel.app/?username=Pedroo722&theme=darkhub&no-frame=true&row=1&column=6" alt="Pedroo722's GitHub Trophies" height="150">
 
 </div>
